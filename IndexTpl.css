@@ -1,0 +1,32 @@
+/*
+  ROUSSEAU Jeremie 09-04-2016
+  CSS3 template index page 
+*/
+html{ }
+body
+{
+	padding:0px;
+	margin:0px;
+}
+div{
+	margin:0px;
+	padding:0px;
+}
+p{
+	margin;right:0px;
+	margin-left:0px;
+	margin-top:0px;
+	margin-bottom:0px;
+	padding:0px;
+	width:20px;
+	height:25px;
+	background-image:url('./animation/frame_black.png');
+	float:left;
+}
+br{
+	margin:0px;
+	padding:0px;
+	width:20px;
+	height:20px;
+	clear:left;
+}
