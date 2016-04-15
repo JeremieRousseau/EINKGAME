@@ -1,7 +1,7 @@
 function GRIDCREATED(){
 
-//SIZE  = prompt("Please enter the size of the canvas", "20");
-
+//JS var no used :: SIZE  = prompt("Please enter the size of the canvas", "20");
+//JS future idea configure SIZE of the board  if we know the size of the screen ??
 SIZE = 20;
 
 var div = document.getElementById("master");
@@ -20,4 +20,4 @@ for(var j = 1; j <= SIZE; j++)
 	var br  = document.createElement("BR");
     div.appendChild(br);
 	}
- }
+}
